@@ -1,16 +1,12 @@
-# apkpenjualmakanan
+# APK Nama Makanan 🍽️
 
-A new Flutter project.
+Aplikasi Flutter sederhana yang menampilkan menu makanan seperti nasi goreng, mie goreng, ayam geprek, dll.  
+User dapat melihat menu rekomendasi, melihat detail masing-masing makanan, dan melihat halaman grid untuk seluruh menu.
 
-## Getting Started
+## ✨ Fitur Aplikasi
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✔ Tampilan menu makanan dalam bentuk list & grid  
+✔ Halaman detail berisi deskripsi setiap makanan  
+✔ UI sederhana dan mudah digunakan  
+✔ Icon piring & garpu di bagian AppBar  
+✔ Gambar makanan diambil dari folder `assets/`
